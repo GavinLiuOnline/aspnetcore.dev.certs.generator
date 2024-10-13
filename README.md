@@ -1,5 +1,5 @@
 # Aspnetcore.Dev.Certs.Generator
-A tool for generating https certificates for local debugging, this tool can generate a dev-certs recognised, and you can add your own domain name to the certificate for local debugging.
+A tool for generating https certificates for local debugging, this tool can generate a dev-certs recognised cert, and you can add your own domain name to the certificate for local debugging.
 Have you ever encountered local debugging when you can only use localhost can not use the production environment of https access? Now you can use `Aspnetcore.Dev.Certs.Generator` to quickly generate a localhost certificate with your domain name for your local development!
 ## Instructions
 1、Download the release package, run the exe and follow the instructions.
